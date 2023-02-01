@@ -13,7 +13,7 @@ import { UserserviceService } from '../../services/userservice.service';
 })
 
 export class UsuariosComponent {
-  displayedColumns: string[] = ['id', 'title', 'state', 'url', "created_at", "updated_at"];
+  displayedColumns: string[] = ['id', 'title', 'state', 'url', "created_at", "updated_at","acciones"];
   dataSource: any;
 
   // Pagination

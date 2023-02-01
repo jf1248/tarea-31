@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "demo31-angular": {
+    "demo19-angular": {
       "projectType": "application",
       "schematics": {},
       "root": "",
